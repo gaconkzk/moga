@@ -1,0 +1,11 @@
+packages:
+  - 'composables'
+  - 'components'
+  - 'docs'
+  - 'app'
+  - 'server'
+  - 'relay'
+  - 'desktop'
+  - 'examples'
+  - 'moga'
+  - '.'

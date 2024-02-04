@@ -1,0 +1,15 @@
+{
+  "name": "@theflies-moga/server",
+  "version": "1.0.0",
+  "description": "",
+  "scripts": {
+    "dev": "node server.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "cluster": "^0.7.7",
+    "gun": "^0.2020.1239"
+  }
+}
